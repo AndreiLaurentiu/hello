@@ -95,5 +95,6 @@ int main()
         free(a[i]);
     free(a);
     //printf("%.25f", cpu_time_used);
+    printf("Program compiled succesfully!");
     return 0;
 }
